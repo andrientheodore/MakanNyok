@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Makan Yok! - Try-It</title>
+	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.4/css/bootstrap.min.css" crossorigin="anonymous">
+	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css">
+	<link rel="stylesheet" href="custom.css">
+</head>
+<body>
+
+   <nav class="navbar navbar-fixed-top navbar-dark bg-inverse">
+      <a class="navbar-brand" href="index.html">Makan Yok</a>
+      <ul class="nav navbar-nav">
+        <li class="nav-item active">
+          <a class="nav-link" href="index.html">Home</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="try-it.html">Try It <span class="sr-only">(current)</span></a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="about.html">About</a>
+        </li>
+      </ul>
+    </nav>
+
+    	
+    <div class = "container">
+    <div class = 'row'>
+      <div class="alert alert-danger alert-dismissible fade in" role="alert" id="status_box">
+        <button type="button" class="close" data-dismiss="alert" aria-label="Close">
+        <span aria-hidden="true">&times;</span>
+        </button>
+        <h4 class="alert-heading">Whoops!</h4>
+        <p id="message_box"></p>
+      </div>
+    	<div class = 'col-md-8'>
+			<div class="card card-block">
+			<h4 class="card-title">Upload Any Indonesian Food Here!</h4>
+			<form id="uploader" method="POST" enctype="multipart/form-data">
+			  <div class="form-group">
+			    <input type="file" class="form-control-file" name="photo" aria-describedby="fileHelp" id ="photo" required="">
+			    <small id="fileHelp" class="form-text text-muted">Max image size is : 2MB.</small>
+			  </div>
+			  <div class="form-check">
+			    <label class="form-check-label">
+			      <input type="checkbox" class="form-check-input" required="">
+			      I Agree with the terms of services
+			    </label>
+			  </div>
+			  <button type="submit" class="btn btn-primary" id="submit" value="submit">Submit</button>
+			</form>	
+			</div>
+    	</div>
+
+    	<div class = 'col-md-4'>
+    		 <div class="card">
+    		 <img class="card-img-top" src="no-img.jpg" alt="Card image cap" id="uploaded_image">
+		      <div class="card-block">
+		        <h4 class="card-title" id="prediction_result">Your Image is : - </h4>
+		        <p class="card-text">This food may contains : </p>
+		        <p class="card-text" id="may_contains">-</p>
+		        <p class="card-text"><small class="text-muted">How accurate is this?</small></p>
+		        <p class="card-text"><small class="text-muted">Task completed : 3 mins ago</small></p>
+		      </div>
+		    </div>	
+    	</div>
+    	
+    </div>
+
+
+        <hr>
+
+      <footer>
+        <p>&copy; Made by Andrien Theodore R - 2016</p>
+      </footer>  
+    </div>
+<script   src="https://code.jquery.com/jquery-3.1.0.min.js"	crossorigin="anonymous"></script>
+    <script src="main.js"></script>
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/tether/1.3.7/js/tether.min.js" crossorigin="anonymous"></script>
+	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.4/js/bootstrap.min.js" crossorigin="anonymous"></script>
+</body>
+</html>

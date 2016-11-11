@@ -1,0 +1,290 @@
+{
+  "asinan" : {
+    "may_contains" : "buah atau sayur\ngula\ncabe\njeruk nipis\nair \ngaram "
+  },
+  "ayam betutu" : {
+    "may_contains" : "Daging ayam\nCabe merah \nCabe rawit\njahe\nkunyit\nkencur\nkemiri\nterasi\nbawang merah\nbawang putih\nlengkuas\nsereh\nDaun salam\ndaun jeruk\ngaram\ngula"
+  },
+  "ayam penyet" : {
+    "may_contains" : "Daging ayam\ntempe\nminyak goreng\nCabe rawit\nterasi\ntomat\ntimun\nDaun slada\ngula garam"
+  },
+  "ayam pop" : {
+    "may_contains" : "daging ayam \nair kelapa murni\nbawang putih\njeruk nipis\ngaram\njahe\nminyak \nmargarin\ncabe merah\nbawang merah\nbawang putih\ntomat besar\ngaram"
+  },
+  "ayam taliwang" : {
+    "may_contains" : "ayam\nkara\nterasi \ngula merah \ngaram \ngula\nair\nbawang merah\nbawang putih\nkemiri \ngaram\ncabe merah \ncabe rawit"
+  },
+  "babipanggangkaro" : {
+    "may_contains" : "daging babi\njeruk nipis\nserai\nbawang putih\nkecap manis \nasam patikala \nbawang merah\nCabai merah \nCabai rawit \nandaliman \nDaun jeruk purut\ngaram "
+  },
+  "bajigur" : {
+    "may_contains" : "jahe\ngula merah \nsantan\ndaun pandan\nkopi bubuk\ngaram\nkayu manis"
+  },
+  "bakso" : {
+    "may_contains" : "daging sapi\ntepung kanji\ntepung terigu\ntelur\nbawang putih\npenyedap rasa\nlada bubuk\ngaram"
+  },
+  "bandeng presto" : {
+    "may_contains" : "bandeng\njeruk nipis\nbumbu magic\nketumbar Halus\nkunyit \ngaram\ngula\nmerica\nDaun jeruk\nlengkuas\ntelur"
+  },
+  "bandrek" : {
+    "may_contains" : "jahe\nmerica\npala bubuk\njinten\ncengkeh\nkayu manis\ngula merah \nserai\ngula pasir \nair"
+  },
+  "batagor" : {
+    "may_contains" : "ikan tenggiri\nsagu(saya pakai sagu tani)\ngula\ngaram \nsantan\nminyak goreng\nbawang putih\nmerica bubuk\ntelur ayam\nDaun bawang\nkecap manis\nkulit pangsit"
+  },
+  "bebek bakar" : {
+    "may_contains" : "daging bebek \nketumbar\nmerica\npala\nkemiri\nair\ngaram \ngula\nbawang merah\nbawang putih\nserai\ndaun jeruk\nkunyit\njahe\nlengkuas\n"
+  },
+  "bika ambon" : {
+    "may_contains" : "tepung terig\nair\nragi instan\ngula pasir\nsantan \ngaram\ndaun pandan\ndaun jeruk\nkunyit \ntelur\ntepung sagu"
+  },
+  "bir pletok" : {
+    "may_contains" : "air\njahe\nCengkih\nkayu manis\nkapulaga\nserai\nkayu secang\npala\ngula pasir\ngaram"
+  },
+  "bolu gulung" : {
+    "may_contains" : "telur\ntepung terigu\ngula\nmentega \nsusu bubuk\nselai strawberry / Coklat"
+  },
+  "bubur ayam" : {
+    "may_contains" : "ayam \nberas\nseledri\ndaun bawang\nbayam\njagung \nkecap asin \nlada bubuk\nbawang merah\nbawang putih\nmerica\nlengkuas \njahe\nkunyir\nserai \ndaun jeruk\ndaun salam"
+  },
+  "bubur manado" : {
+    "may_contains" : "beras\nkaldu ikan/ayam\njahe\nserau \njagung manis \ndaun bayam \nlabu kuning\ndaging ikan tenggiri"
+  },
+  "burger" : {
+    "may_contains" : "terigu \nragi \ngula \nair\ntelur\nbutter \ngaram\nbiji wijen\ndaging sapi\ndaun selada\ntomat\nbawang bombay\nkeju\nsaus tomat \nmayonnise"
+  },
+  "cah kangkung" : {
+    "may_contains" : "kangkung\ncabe rawit ijo\nbawang merah\nbawang putih\nsdt terasi\nikat kangkung"
+  },
+  "cireng" : {
+    "may_contains" : "bawang putih \ntepung kanji\nair putih\nminyak \ntepung kanji\ndaun bawang \nkaldu bubuk\ngaram\n"
+  },
+  "coto makassar" : {
+    "may_contains" : "daging sapi\nsereh \nketumbar bubuk\nmerica bubuk\nbawang putih\nbawang merah\ngaram\npenyedap rasa\nair "
+  },
+  "emping" : {
+    "may_contains" : "melinjo\ndaun salam\ndaun jeruk purut\nserai \nlengkuas/laos \nbawang putih\nbawang merah \ncabe merah kering \nair\ngula merah \ngula pasir putih\ngaram \nminyak sayur"
+  },
+  "es dawet" : {
+    "may_contains" : "tepung beras\ntepung tapioka\npasta pandan\nair\ngaram\nes batu \nair \ngula merah\nair\ndaun pandan\nsantan \nair\ngaram"
+  },
+  "gado gado" : {
+    "may_contains" : "taoge\nkacang panjang\nkentang\nkol\ntahu putih\ntempe\ntelur\nkacang \nbawang putih\ncabe merah\ndaun jeruk\ngula merah\nsantan \ngaram\nair asam jawa\nlontong\nkerupuk\nbawang goreng"
+  },
+  "garang asem" : {
+    "may_contains" : "Daging ayam\nbelimbing wuluh \nsereh \nDaun salam \ndaun jeruk \njahe \nlengkuas \ncabe rawit\nbawang merah \nbawang putih \ntomat \nsantan\nair\ngula garam\nkaldu \n"
+  },
+  "getuk" : {
+    "may_contains" : "singkong\nkelapa parut\ngula merah\nvanili\ngaram"
+  },
+  "gudeg" : {
+    "may_contains" : "nangka muda\ngula merah\nkemiri\nbawang putih\nbawang merah\nketumbar\nDaun salam\nlaos\ngula\ngaram\nsantan kelapa \ntahu\ntelur rebus"
+  },
+  "iga bakar" : {
+    "may_contains" : "iga sapi\nbawang putih\nbawang merah\nlada hitam\nkecap manis\nkecap inggris\nminyak wijen\nsaus teriyaki\ngaram \ngula\nkaldu jamur"
+  },
+  "ikan asin" : {
+    "may_contains" : "ikan\ngaram \nair"
+  },
+  "jagung bakar" : {
+    "may_contains" : "jagung manis \nmentega/minyak goreng\nair matang"
+  },
+  "kepiting soka" : {
+    "may_contains" : "kepiting soka\nbawang putih\ntepung terigu\ntepung maizena\nmerica \ntelur\ngaram\nminyak "
+  },
+  "kerak telor" : {
+    "may_contains" : "beras ketan\nair\nkelapa parut\nebi udang\ntelur bebek\nbawang merah\ngoreng kering\nminyak goreng \ncabai merah keriting\nmerica \nkencur\njahe"
+  },
+  "keripik pisang" : {
+    "may_contains" : "pisang \npenyedap rasa \nair garam \nminyak"
+  },
+  "keripik sanjai" : {
+    "may_contains" : "ubi singkong\ngaram\nminyak\ncabe merah\ngula \nbawang putih\ncuka makan"
+  },
+  "ketupat sayur" : {
+    "may_contains" : "kacang panjang \nlabu siam \nsun kara \ndaun salam\nserai \ntelur ayam \ntahu goreng\ncabe rawit\ngaram\ngula\nbawang merah\nbawang putih\nkemiri\nkunyit\ncabe keriting merah\nketumbar"
+  },
+  "kikil" : {
+    "may_contains" : "kikil"
+  },
+  "klappertaart" : {
+    "may_contains" : "margarin\nbutter\ngula pasir\nterigu\nair kelapa\nkayumanis \nkismis \nkeju\nsusu cair\nkelapa muda\nsusu kental manis\nmaizena\nkuning telur\nputih telur\ngula pasir\nvanilla essense"
+  },
+  "klepon" : {
+    "may_contains" : "tepung ketan\ngula merah\nair \nkelapa parut\ngaram\npewarna makanan"
+  },
+  "kue putu" : {
+    "may_contains" : "tepung beras\nair\ngaram halus\ngula merah\nkelapa parut \nvanili\ngula pasir"
+  },
+  "kue sagu" : {
+    "may_contains" : "tepung sagu \ntelur\ngula halus\nrum batter\nkeju \nmentega"
+  },
+  "kwetiau" : {
+    "may_contains" : "kwetiau beras\nudang\ntelur\ndada ayam\nbakso\ncaisin\ntomat\nkecap manis\nminyak\ncabai\nbawang putih\nebi\nmerica\ngaram\nbawang goreng\nacar mentimun"
+  },
+  "laksa" : {
+    "may_contains" : "bawang merah\nbawang putih\nketumbar\ncabe besar\ncabe kecil\nkunyit\nlaos\nkemiri\nterasi\ngula\ndaun salam\nsereh\nsantan"
+  },
+  "lasagna" : {
+    "may_contains" : "Daging sapi / babi\nminyak\nbawang bombay\nbawang putih\njahe\ngaram\ntomat\npasta tomat\noregano\nherb\nthyme\nsusu\ncloves\npala bubuk\nbutter\nterigu\nkeju parmesan\ngaram\nmerica\nkulit lasagna\n"
+  },
+  "lontong balap" : {
+    "may_contains" : "toge/kecambah\nkaldu daging sapi\nawang\nmerica bulat\nrebon udang\ngaram\nkecap manis\ngula\ndaun bawang\ndaun seledri"
+  },
+  "lumpia" : {
+    "may_contains" : "tepung terigu\ntepung kanji\ntelur\ngaram \nair\nkentang ukuran sedang\nbawang merah\nbawang putih\nkemiri\ngaram\nkunir\njahe\nminyak "
+  },
+  "martabak manis" : {
+    "may_contains" : "tepung terigu\nbaking powder\ntelur ayam \ngula \ngaram\nsusu \nsoda kue\nmentega\ncokelat\nkeju\n"
+  },
+  "martabak telur" : {
+    "may_contains" : "telur\nkulit lumpia\nbawang bombay\ndaun bawang \ncabe merah keriting \ncabe rawit merah \nkol \nwortel\ndaging giling\ngaram"
+  },
+  "mie aceh" : {
+    "may_contains" : "Cabe merah kriting\nCabe rawit \nbawang putih\njahe\nkunyit\nmerica bubuk\nketumbar\nkapulaga\nkemiri\njinten\nadas\nmie telor \nudang \nair matang\nminyak\t\nbawang merah\nsiung bawang putih\nkol\ntoge\nbawang prei\ntomat\nDaun sup \ngaram\nkecap asin \nkecap manis"
+  },
+  "mie kocok" : {
+    "may_contains" : "mie telur\ncabe rawit\ncabe merah\nbawang merah\nbawang putih\ntomat\ntelur\nkari\nsaos sambal\nkecap manis\nair\nbayam\ngaram\ngula\nmerica"
+  },
+  "mochi" : {
+    "may_contains" : "tepung ketan\ngula pasir\nair\nvanili \nes krim\npewarna makanan\nmaizena"
+  },
+  "nasi goreng" : {
+    "may_contains" : "nasi \ntelur\nsosis\nmerica\nterasi\nkecap manis\ngaram\nminyak \nbawang merah\ncabe merah\nbawang putih\ncabe rawit\nkemiri"
+  },
+  "nasi kuning" : {
+    "may_contains" : "beras\nsantan \ndaun pandan\ndaun jeruk\ndaun salam\nbawang merah\nbawang putih\nkunyit\njahe"
+  },
+  "nasi langgi" : {
+    "may_contains" : "beras\nsantan\ndaun salam\nserai \nlengkuas\nasam jawa\nminyak\nbawang putih\nbawang merah\ngaram \nketumbar bubuk"
+  },
+  "nasi lemak" : {
+    "may_contains" : "beras\nsantan \nsereh\ndaun salam\ndaun jeruk\ngaram"
+  },
+  "nasilengko" : {
+    "may_contains" : "tempe\ntahu\nketimun\ndaun kucai\nbawang goreng\nbawang putih\nbumbu pecel\nkecap manis\ntoge\ngula\ngaram"
+  },
+  "nasi minyak" : {
+    "may_contains" : "beras\ntomat\nbombay\nnanas\nsusu\nbumbu kari \nkaldu\ngaram\ngula \nminyak samin \nkismis\nkapulaga\ncengkeh\nkayumanis\nadas manis\njintan"
+  },
+  "nasi pecel" : {
+    "may_contains" : "nasi putih\nkangkung\ntauge\nbumbu pecel\nair panas\nempe goreng\nrempeyek kacang"
+  },
+  "onde onde" : {
+    "may_contains" : "tepung ketan\ntepung beras\ngaram\ngula pasir\nbaking powder\nair\nkacang hijau\naun pandan \nsantan \nvanila"
+  },
+  "opor ayam" : {
+    "may_contains" : "daging ayam\nbawang putih\nbawang merah\nketumbar\nkunyit\ngula pasir\ngaram\nsantan \ndaun salam\nlengkuas\nminyak \n"
+  },
+  "otak otak" : {
+    "may_contains" : "daging ikan tenggiri \nsantan kental\nbawang merah\ngaram\npenyedap\nlada bubuk\ngula\ntepung tapioka\ndaun pisang"
+  },
+  "paisudang" : {
+    "may_contains" : "udang\nhalia\ndaun kunyit\ncabe merah\ntepung jagung\nkunyit \nlimau purut\nbawang merah\nbawang putih\nbatang serai\nkelapa parut\nDaun pisang\ngaram"
+  },
+  "panggangikanmas" : {
+    "may_contains" : "ikan mas\nsantan\ncabe merah\ncabe rawit\ndaun salam\ndaun jeruk\nserai\nlengkuas \njahe \nkunyit \nbawang merah\nbawang putih\ngaram\ngula pasir\nminyak goreng\ndaun pisang"
+  },
+  "papeda" : {
+    "may_contains" : "tepung sagu\nair matang\ngaram dan royco"
+  },
+  "pecel lele" : {
+    "may_contains" : "ikan lele\ntahu\ntempe\njeruk nipis \nbawang putih\nketumbar\nkunyit \njahe\nkemiri\nlengkuas\ngaram\nminyak \nlalapan\nsambal"
+  },
+  "pempek" : {
+    "may_contains" : "tepung kanji\nikan tengiri\ngaram\nkaldu\nputih telur\ntelur ayam\nair putih "
+  },
+  "pepes ayam" : {
+    "may_contains" : "daging ayam \ndaun pisang\nlengkoas\nsereh\ncabe rawit merah\ndaun salam \ndaun jeruk\nkemiri\nbawang merah\nbawang putih\ntelunjuk kunyit\njahe\ngula pasir"
+  },
+  "pisang molen" : {
+    "may_contains" : "terigu\ngula Halus\nmentega cair\ngaram\npisang \ntelor\nair"
+  },
+  "pizza" : {
+    "may_contains" : "bawang bombay\nbuah sosis\ntomat\npaprika\nbawang putih\ntelur ayam\nDaun bawang\nkeju \nsaus tomat\nterigu protein\nsusu\ntelur ayam\nragi instan\nmentega\nminyak goreng"
+  },
+  "rawon" : {
+    "may_contains" : "daging sapi\nbawang merah\nbawang putih\nkeluwek\nketumbar\nmerica\nkunyit\njahe\nlengkuas\ndaun salam\ndaun jeruk\nsereh\ngula\ngaram\nminyak\nair\nkerupuk udang\nCabe merah\nDaun bawang\nbawang goreng"
+  },
+  "rendang" : {
+    "may_contains" : "Daging ayam / sapi\nbawang putih\nbawang merah\ncabe merah \ncabe rawit \njahe \nlengkuas\nkunyit\npala\nkemiri\nmerica\nketumbar\nsereh\ndaun salam\ndaun jeruk\nasam kandis \nsantan \nkelapa parut \ngaram \ngula "
+  },
+  "regginang" : {
+    "may_contains" : "beras ketan \nair\ngaram\npenyedap rasa\nbawang putiih\nterasi"
+  },
+  "risoles" : {
+    "may_contains" : "\nterigu cakra\nterigu segitiga biru\ntapioka\nsusu cair\ntelur\nminyak sayur\ngaram\ndaging ayam\nwortel \nkentang\nbawang putih\nbawang bombay\nair\nkaldu ayam\nseledri\ndaun bawang\npenyedap rasa ayam\nlada bubuk\ntepung roti\ntepung"
+  },
+  "roti buaya" : {
+    "may_contains" : "tepung \nfermipan\ngula pasir\ngaram\ntelur \nwhipe cream bubuk \nsusu cair\nmargarine"
+  },
+  "roti cane" : {
+    "may_contains" : "tepung terigu\ntelor ayam \nkuning telor\nair hangat\nminyak goreng\ngaram\ngula pasir \nmentega \n"
+  },
+  "rujak buah" : {
+    "may_contains" : "buah-buahan\ngula merah\nterasi\ngaram\nasam\ncabe rawit\n"
+  },
+  "rujak cingur" : {
+    "may_contains" : "cingur\ntauge\nkacang panjang\nkangkung\ntempe\ntahu\npetis udang\ncabe rawit\nkacang tanah\npisang\nair asam\nair "
+  },
+  "sambal terasi" : {
+    "may_contains" : "tomat\ncabe keriting merah\nbawang putih\nbawang merah\nterasi \npenyedap rasa\ngaram"
+  },
+  "sate" : {
+    "may_contains" : "Daging ayam / sapi / kambing\nbawang putih\nkacang tanah \nsantan\ndaun jeruk \nkecap\nketumbar\nminyak goreng\ngaram"
+  },
+  "sayur asem" : {
+    "may_contains" : "labu siem\nkacang panjang\nkacang tanah\njagung manis\nnangka mentah\ndaun tangkil\nmelinjo\ndaun salam\nlengkuas\nbawang merah\nbawang putih\ncabe keriting\nkemiri\ntomat \ngula merah\nterasi \ngaram\nair\nair asem"
+  },
+  "sayur lodeh" : {
+    "may_contains" : "labu siam\nterung ungu\nwortel\njagung \nkacang panjang\ndaun melinjo\nbuah melinjo\ncabai merah \ncabai hijau\npetai\nlengkuas\nbawang merah\nbawang putih\nebi kering\ndaun salam\nsantan \ngula\ngaram\nair\nminyak goreng"
+  },
+  "seblak" : {
+    "may_contains" : "kerupuk\nkol \ndaun bawang\nbawang putih\ncabe rawit\nmasako\nladaku\nair"
+  },
+  "serabi" : {
+    "may_contains" : "tepung beras\ntepung terigu\ngula\nsantan kara\ngula merah\ndaun pandan\npewarna pandan\nragi "
+  },
+  "sop buntut" : {
+    "may_contains" : "buntut sapi / iga sapi\nWortel\nkentang\ntomat\nDaun bawang\nsledri\njahe \nCengkeh\nbawang merah\nbawang putih \nkemiri \nminyak sayur\ngaram\nlada bubuk\ngula pasir\nbeaf powder \npala bubuk\nbawang bombay"
+  },
+  "soto banjar" : {
+    "may_contains" : "daging ayam\nbawang merah\nbawang putih\nair\nsusu \nkuning telor bebek\nkayumanis\ncengkeh\nadas manis \njinten\nbiji kapulaga\nbuah bunga lawang/pekak\nmerica putih bulat\nruas jahe\nbiji pala\ngula pasir\nminyak goreng \nketupat\nayam kampung suwir, perkedel kentang, telur bebek rebus, soun\nseledri,jeruk nipis,sambal,bawang goreng,kecap asin,kecap manis,"
+  },
+  "soto betawi" : {
+    "may_contains" : "Daging sapi\nsereh\nkayu manis\nbiji pala\npekak\njintan\nketumbar bubuk\nkunyit bubuk\ndaun salam\npaprika merah\nbawang putih\nbawang merah\nkemiri\njahe\nsantan kental\nsusu segar\nair\nkecap manis\ngaram \nlada\nkentang goreng \nbawang goreng\ndaun bawang\njeruk nipis\ntomat"
+  },
+  "soto kudus" : {
+    "may_contains" : "daging ayam\ntelor rebus\nkentang\nsoun\ndaun seledri\nbawang putih goreng\njeruk nipis\nbawang merah\nbawang putih\nketumbar\nkemiri\njahe\njintan\nkunyit\nserai\ndaun jeruk\ngaram\nminyak \nair"
+  },
+  "soto mie" : {
+    "may_contains" : "kulit risol \nbihun rebus\ngaram \nlada"
+  },
+  "spaghetti" : {
+    "may_contains" : "spaghetti\nsosis \nminyak goreng\nbawang putih\nbawang bombay\ntomat\ngaram\nair\nmerica\noregano\nkeju "
+  },
+  "steak" : {
+    "may_contains" : "daging sapi / daging ayam / daging ikan\ngaram\nmerica\nbarbeque sauce \nmadu\nair\ngaram\nlada hitam\nkentang goreng\nmix vegetables"
+  },
+  "sup ikan jantung pisang" : {
+    "may_contains" : "jantung pisang\nsantan\nfillet kakap\ndaun kemangi\nbumbu dasar putih\nsambal bajak\njeruk nipis\nkunyit bubuk\nair\ntomat\ngaram\nbatang serai"
+  },
+  "tahusumedang" : {
+    "may_contains" : "kedelai\nair \npenggumpal \nminyak\nkemiri\nbawang putih \ngaram"
+  },
+  "teh poci" : {
+    "may_contains" : "air\nDaun teh\ngula\nEs batu"
+  },
+  "telur asin" : {
+    "may_contains" : "telur ayam\ngaram\nair \npewarna makanan"
+  },
+  "tongseng kambing" : {
+    "may_contains" : "daging kambing \nbawang merah\nbawang putih\nkemiri\ncabai merah\ncabe rawit\nmerica\nlengkuas \njahe \nserai \ndaun jeruk\nkecap manis\ngula\ngaram\nair\ntomat \nkol "
+  },
+  "wajik" : {
+    "may_contains" : "beras ketan\ngula merah\nDaun pandan\nkelapa parut"
+  },
+  "wedang jahe" : {
+    "may_contains" : "jahe\nserai\ngula merah\nair"
+  }
+}

@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title></title>
+</head>
+<body>
+
+<form action="" method="post" id="add">
+	<input type="text" name="nama_makanan" id = "nama_makanan"><br><br>
+	<textarea name="may_contains" rows="20" cols="50" id = "may_contains"></textarea><br><br>
+	<input type="submit" name="submit">
+</form>
+<script src="https://www.gstatic.com/firebasejs/3.3.1/firebase.js"></script>
+<script src="https://code.jquery.com/jquery-3.1.0.min.js" crossorigin="anonymous"></script>
+<script>
+  // Initialize Firebase
+  var config = {
+    apiKey: "YOUR_API_KEY",
+    authDomain: "YOUR_AUTH_DOMAIN",
+    databaseURL: "YOUR_DATABASE_URL",
+    storageBucket: "YOUR_STORAGE_BUCKET",
+  };
+  firebase.initializeApp(config);
+
+  $("#add").on('submit', function(data) {
+  		data.preventDefault();
+  		var nama_makanan = $("#nama_makanan").val();
+  		var may_contains = $("#may_contains").val();
+  		firebase.database().ref('makanan/' + nama_makanan).set({
+  			may_contains: may_contains
+  		});
+  		nama_makanan.val("");
+  		may_contains.val("");
+  });
+
+</script>
+</body>
+</html>
